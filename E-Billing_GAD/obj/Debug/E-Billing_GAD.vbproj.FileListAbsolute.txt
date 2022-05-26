@@ -1,0 +1,20 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\bin\Debug\E-Billing_GAD.exe.config
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\bin\Debug\E-Billing_GAD.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\bin\Debug\E-Billing_GAD.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\bin\Debug\E-Billing_GAD.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E_Billing_GAD.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E_Billing_GAD.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E-Billing_GAD.vbproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E-Billing_GAD.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E-Billing_GAD.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\E-Billing_GAD\obj\Debug\E-Billing_GAD.pdb
+D:\E-Billing_GAD\E-Billing_GAD\bin\Debug\E-Billing_GAD.exe.config
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E-Billing_GAD.exe
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E-Billing_GAD.xml
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E-Billing_GAD.pdb
+D:\E-Billing_GAD\E-Billing_GAD\bin\Debug\E-Billing_GAD.exe
+D:\E-Billing_GAD\E-Billing_GAD\bin\Debug\E-Billing_GAD.pdb
+D:\E-Billing_GAD\E-Billing_GAD\bin\Debug\E-Billing_GAD.xml
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E_Billing_GAD.Form1.resources
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E_Billing_GAD.Resources.resources
+D:\E-Billing_GAD\E-Billing_GAD\obj\Debug\E-Billing_GAD.vbproj.GenerateResource.Cache
